@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-02-feedback",
+  "name": "goit-react-hw-04-hooks-feedback",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sergey-25.github.io/goit-react-hw-02-feedback",
+  "homepage": "https://sergey-25.github.io/goit-react-hw-04-hooks-feedback/",
   "dependencies": {
     "@emotion/react": "^11.4.0",
     "@emotion/styled": "^11.3.0",
