@@ -1,0 +1,21 @@
+.btns {
+  display: flex;
+  justify-content: space-around;
+}
+.btns > button {
+  padding: 10px 40px;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.good {
+  background-color: rgb(101, 250, 2);
+}
+.neutral {
+  background-color: rgb(9, 191, 247);
+}
+.bad {
+  background-color: red;
+}
